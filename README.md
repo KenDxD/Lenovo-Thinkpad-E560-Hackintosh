@@ -7,16 +7,15 @@
 This repo contains the files and scripts to install macOS on the Lenovo E560 family. Fork from rsdev69.
 
 ## What's working?
-| Type             |    Status   |
+| Type             |      |      |
 |------------------|------|------|
 | Wifi             |  ✅  |      |
 | Bluetooth        |  ✅  |      |
 | Sleep            |  ✅  |      |
 | Lid              |  ✅  |      |
 | NVRAM            |  ✅  |      |
-| iService         |  ✅  |      |
-| *iMessage        |      |      |
-| *Facetime        |      |      |
+| *iMessage        |  ✅  |      |
+| *Facetime        |  ✅  |      |
 | Audio            |  ✅  |      |
 | Touchpad         |  ✅  |      |
 | USB Ports        |  ✅  |      |
