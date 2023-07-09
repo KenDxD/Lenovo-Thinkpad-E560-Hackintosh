@@ -1,4 +1,6 @@
-# Lenovo Thinkpad E560 OpenCore 0.9.3
+# Lenovo Thinkpad E560 Monterey OpenCore 0.9.3
+
+<img align="right" src="./img/spec.png" alt="specs" width="300">
 
 [![rsdev69](https://img.shields.io/badge/rsdev69-fork-green?logo=github)](https://github.com/rsdev69/ThinkPad-E560-Hackintosh)
 [![macOS](https://img.shields.io/badge/macOS-Monterey-blue)](https://developer.apple.com/documentation/macos-release-notes)
@@ -8,21 +10,28 @@ This repo contains the files and scripts to install macOS on the Lenovo E560 fam
 
 Fork from rsdev69.
 
+## INFO (IMPORTANT!!!)
+SMBIOS: MacbookPro13,3
+
+
+GENERATE YOUR OWN SERIAL, ROM, MLB and UUID for iService to be working.
+
+
 ## What's working?
-| Type             |      |      |
-|------------------|------|------|
-| Wifi             |  ✅  |      |
-| Bluetooth        |  ✅  |      |
-| Sleep            |  ✅  |      |
-| Lid              |  ✅  |      |
-| NVRAM            |  ✅  |      |
-| *iMessage        |  ✅  |      |
-| *Facetime        |  ✅  |      |
-| Audio            |  ✅  |      |
-| Touchpad         |  ✅  |      |
-| USB Ports        |  ✅  |      |
-| VGA Port         |  ✅  |      |
-| HDMI 1.4 Ports   |  ✅  |      |
+| Type             | Status |
+|------------------|--------|
+| Wifi             |   ✅   |
+| Bluetooth        |   ✅   |
+| Sleep            |   ✅   |
+| Lid              |   ✅   |
+| NVRAM            |   ✅   |
+| *iMessage        |   ✅   |
+| *Facetime        |   ✅   |
+| Audio            |   ✅   |
+| Touchpad         |   ✅   |
+| USB Ports        |   ✅   |
+| VGA Port         |   ✅   |
+| HDMI 1.4 Ports   |   ✅   |
 
  
 ## Hardware 💻
