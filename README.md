@@ -1,7 +1,8 @@
-# Lenovo Thinkpad E560 OpenCore 0.9.1
+# Lenovo Thinkpad E560 OpenCore 0.9.3
 
+[![rsdev69](https://img.shields.io/badges/git-hub-forks)](https://github.com/rsdev69/ThinkPad-E560-Hackintosh)
 [![macOS](https://img.shields.io/badge/macOS-Ventura-blue)](https://developer.apple.com/documentation/macos-release-notes)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.1-green)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.3-green)](https://github.com/acidanthera/OpenCorePkg)
 
 This repo contains the files and scripts to install macOS on the Lenovo E560 family.
 Fork from rsdev69 
