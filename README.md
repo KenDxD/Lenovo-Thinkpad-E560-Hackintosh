@@ -15,8 +15,8 @@ This repo contains the files and scripts to install macOS on the Lenovo E560 fam
 | Lid              |  ✅  |      |
 | NVRAM            |  ✅  |      |
 | iService         |  ✅  |      |
-| *iMessage                      |
-| *Facetime                      |
+| *iMessage        |      |      |
+| *Facetime        |      |      |
 | Audio            |  ✅  |      |
 | Touchpad         |  ✅  |      |
 | USB Ports        |  ✅  |      |
