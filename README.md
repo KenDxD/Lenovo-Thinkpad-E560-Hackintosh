@@ -5,7 +5,7 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.3-green)](https://github.com/acidanthera/OpenCorePkg)
 
 This repo contains the files and scripts to install macOS on the Lenovo E560 family.
-Fork from rsdev69 
+\nFork from rsdev69 
  
 ## Hardware 💻
 
