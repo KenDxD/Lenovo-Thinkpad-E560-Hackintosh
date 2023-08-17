@@ -11,7 +11,7 @@ Fork from rsdev69.
 
 ## What's working?
 
-<img align="right" src="./img/specs.png" alt="specsmonterey" width="500">
+<img align="right" src="./img/specsmonterey.png" alt="specsmonterey" width="500">
 <img align="right" src="./img/specsventura.png" alt="specsventura" width="500">
 
 SMBIOS: MacbookPro13,3(Monterey)
