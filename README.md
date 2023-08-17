@@ -1,9 +1,9 @@
-# Lenovo Thinkpad E560 Monterey OpenCore 0.9.3
+# Lenovo Thinkpad E560 OpenCore v0.9.4
 
 
 [![rsdev69](https://img.shields.io/badge/rsdev69-fork-green?logo=github)](https://github.com/rsdev69/ThinkPad-E560-Hackintosh)
 [![macOS](https://img.shields.io/badge/macOS-Monterey-blue)](https://developer.apple.com/documentation/macos-release-notes)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.3-green)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.4-green)](https://github.com/acidanthera/OpenCorePkg)
 
 This repo contains the files and scripts to install macOS on the Lenovo E560 family.
 
@@ -11,10 +11,11 @@ Fork from rsdev69.
 
 ## What's working?
 
-<img align="right" src="./img/specs.png" alt="specs" width="500">
-<img align="right" src="./img/neo.png" alt="neo" width="500">
+<img align="right" src="./img/specs.png" alt="specsmonterey" width="500">
+<img align="right" src="./img/specsventura.png" alt="specsventura" width="500">
 
-SMBIOS: MacbookPro13,3
+SMBIOS: MacbookPro13,3(Monterey)
+        MacbookPro15,3(Ventura)
 
 
 GENERATE YOUR OWN SERIAL, ROM, MLB and UUID for iService to be working.
