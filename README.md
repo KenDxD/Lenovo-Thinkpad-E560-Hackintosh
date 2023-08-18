@@ -14,8 +14,7 @@ Fork from rsdev69.
 <img align="right" src="./img/specsmonterey.png" alt="specsmonterey" width="500">
 <img align="right" src="./img/specsventura.png" alt="specsventura" width="500">
 
-SMBIOS: `MacbookPro13,1(Monterey)`
-        `MacbookPro14,1(Ventura)`
+**SMBIOS: `MacbookPro13,1(Monterey)` `MacbookPro14,1(Ventura)`**
 
 
 GENERATE YOUR OWN SERIAL, ROM, MLB and UUID for iService to be working.
