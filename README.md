@@ -7,7 +7,7 @@
 
 This repo contains the files and scripts to install macOS on the Lenovo E560 family.
 
-Fork from rsdev69. Adding some major improvement 🥹check here on [Release Page](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/releases).
+Fork from rsdev69. Adding some major improvement check here on [Release Page](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/releases) for more info 🥹.
 
 ## What's working?
 
