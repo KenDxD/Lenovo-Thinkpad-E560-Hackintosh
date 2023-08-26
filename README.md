@@ -14,7 +14,6 @@ SMBIOS: `MacbookPro13,1(Monterey)` `MacbookPro14,1(Ventura)`
 <strong>GENERATE YOUR OWN SERIAL, ROM,MLB and UUID for iService to be working.</strong>
 <img align="right" src="./img/specsmonterey.png" alt="specsmonterey" width="500">
 <img align="right" src="./img/specsventura.png" alt="specsventura" width="500">
-<h1>
 
 | Type               | Status   |
 |:------------------:|:--------:|
@@ -31,7 +30,6 @@ SMBIOS: `MacbookPro13,1(Monterey)` `MacbookPro14,1(Ventura)`
 | VGA Port           |    ✅    |
 | HDMI Port          |    ✅    |
 
-</h1>
 <br clear="right">
  
 ## Hardware and Settings
