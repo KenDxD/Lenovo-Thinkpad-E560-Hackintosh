@@ -33,6 +33,8 @@ GENERATE YOUR OWN SERIAL, ROM, MLB and UUID for iService to be working.
 | VGA Port         |    ✅  |
 | HDMI Port        |    ✅  |
 
+
+
  
 ## Hardware and Settings
 
