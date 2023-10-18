@@ -14,6 +14,13 @@ SMBIOS:
 `MacbookPro14,1(Ventura)`
 `MacbookPro15,1(Sonoma)`
 
+## Running macOS
+
+<img align="right" src="./img/specsmonterey.png" alt="specsmonterey" width="500">
+<img align="right" src="./img/specsventura.png" alt="specsventura" width="500">
+
+<br clear="right">
+
 ## What's working?
 
 | Type               | Status   |
@@ -31,9 +38,6 @@ SMBIOS:
 | USB 3.0 SS x 3     |    ✅    |
 | VGA Port           |    ✅    |
 | HDMI Port          |    ✅    |
-
-<img align="right" src="./img/specsmonterey.png" alt="specsmonterey" width="500">
-<img align="right" src="./img/specsventura.png" alt="specsventura" width="500">
 
 
 <br clear="right">
