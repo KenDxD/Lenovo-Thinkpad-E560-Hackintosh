@@ -16,7 +16,13 @@ SMBIOS: <br>
 `MacbookPro14,1(Ventura)` <br>
 `MacbookPro15,1(Sonoma)` <br>
 
-<strong>Don't ever update VoodooPS2Controller.Kext because it contains patch for our Fn Key to be functional even after sleep.</strong>
+<strong>Don't ever update `VoodooPS2Controller.kext` because it contains patch for our Fn Key to be functional even after sleep.</strong>
+Fn Key that only works<br>
+`Fn + F1` for `Mute`<br>
+`Fn + F2` for `Volume Down`<br>
+`Fn + F3` for `Volume Up`<br>
+`Fn + F5` for `Decrease Brightness`<br>
+`Fn + F6` for `Increase Brightness`<br>
 
 ## Running macOS
 
