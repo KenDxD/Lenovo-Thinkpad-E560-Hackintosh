@@ -8,16 +8,20 @@
 
 Fork from rsdev69. Adding some major improvements check here on [Release Page](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/releases) for more info 🥹.
 
-<strong>GENERATE YOUR OWN SERIAL, ROM,MLB and UUID for iService to be working.</strong>
-SMBIOS: 
-`MacbookPro13,1(Monterey)` 
-`MacbookPro14,1(Ventura)`
-`MacbookPro15,1(Sonoma)`
+## Please Read this!!!!
+
+<strong>GENERATE YOUR OWN SERIAL, ROM,MLB and UUID for iService to be working.</strong><br>
+SMBIOS: <br>
+`MacbookPro13,1(Monterey)` <br>
+`MacbookPro14,1(Ventura)` <br>
+`MacbookPro15,1(Sonoma)` <br>
+
+<strong>Don't ever update VoodooPS2Controller.Kext because it contains patch for our Fn Key to be functional even after sleep.</strong>
 
 ## Running macOS
 
-<img align="right" src="./img/specsmonterey.png" alt="specsmonterey" width="500">
-<img align="right" src="./img/specsventura.png" alt="specsventura" width="500">
+<img align="center" src="./img/specsmonterey.png" alt="specsmonterey" width="500">
+<img align="center" src="./img/specsventura.png" alt="specsventura" width="500">
 
 <br clear="right">
 
