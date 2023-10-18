@@ -1,4 +1,4 @@
-# Lenovo Thinkpad E560 OpenCore v0.9.4
+# Lenovo Thinkpad E560 OpenCore v0.9.5
 
 
 [![rsdev69](https://img.shields.io/badge/rsdev69-fork-green?logo=github)](https://github.com/rsdev69/ThinkPad-E560-Hackintosh)
@@ -9,7 +9,10 @@
 Fork from rsdev69. Adding some major improvements check here on [Release Page](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/releases) for more info 🥹.
 
 ## What's working?
-SMBIOS: `MacbookPro13,1(Monterey)` `MacbookPro14,1(Ventura)`
+SMBIOS: 
+`MacbookPro13,1(Monterey)` 
+`MacbookPro14,1(Ventura)`
+`MacbookPro15,1(Sonoma)`
 
 <strong>GENERATE YOUR OWN SERIAL, ROM,MLB and UUID for iService to be working.</strong>
 <img align="right" src="./img/specsmonterey.png" alt="specsmonterey" width="500">
