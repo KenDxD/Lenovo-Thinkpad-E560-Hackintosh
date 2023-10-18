@@ -14,10 +14,6 @@ SMBIOS:
 `MacbookPro14,1(Ventura)`
 `MacbookPro15,1(Sonoma)`
 
-<strong>GENERATE YOUR OWN SERIAL, ROM,MLB and UUID for iService to be working.</strong>
-<img align="right" src="./img/specsmonterey.png" alt="specsmonterey" width="500">
-<img align="right" src="./img/specsventura.png" alt="specsventura" width="500">
-
 | Type               | Status   |
 |:------------------:|:--------:|
 | Wifi               |    ✅    |
@@ -27,11 +23,17 @@ SMBIOS:
 | NVRAM              |    ✅    |
 | iMessage           |    ✅    |
 | Facetime           |    ✅    |
+| Keyboard Fn Keys   |    ✅    |
 | Audio              |    ✅    |
 | Touchpad           |    ✅    |
 | USB 3.0 SS x 3     |    ✅    |
 | VGA Port           |    ✅    |
 | HDMI Port          |    ✅    |
+
+strong>GENERATE YOUR OWN SERIAL, ROM,MLB and UUID for iService to be working.</strong>
+<img align="right" src="./img/specsmonterey.png" alt="specsmonterey" width="500">
+<img align="right" src="./img/specsventura.png" alt="specsventura" width="500">
+
 
 <br clear="right">
  
