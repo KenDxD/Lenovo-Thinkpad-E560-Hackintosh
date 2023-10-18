@@ -3,13 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>#WARNING - 1</key>
-	<string>This is just a sample. Do NOT try loading it.</string>
+	<string>Fork from rsdev69, highly modified my KenDxD</string>
 	<key>#WARNING - 2</key>
-	<string>Ensure you understand EVERY field before booting.</string>
+	<string>Generate your own UUID, ROM, Serial and MLB</string>
 	<key>#WARNING - 3</key>
-	<string>In most cases recommended to use Sample.plist</string>
-	<key>#WARNING - 4</key>
-	<string>Use SampleCustom.plist only for special cases.</string>
+	<string>You can remove this header but always make a credits</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
