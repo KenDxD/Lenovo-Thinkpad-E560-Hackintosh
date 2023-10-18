@@ -8,11 +8,13 @@
 
 Fork from rsdev69. Adding some major improvements check here on [Release Page](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/releases) for more info 🥹.
 
-## What's working?
+<strong>GENERATE YOUR OWN SERIAL, ROM,MLB and UUID for iService to be working.</strong>
 SMBIOS: 
 `MacbookPro13,1(Monterey)` 
 `MacbookPro14,1(Ventura)`
 `MacbookPro15,1(Sonoma)`
+
+## What's working?
 
 | Type               | Status   |
 |:------------------:|:--------:|
@@ -30,7 +32,6 @@ SMBIOS:
 | VGA Port           |    ✅    |
 | HDMI Port          |    ✅    |
 
-strong>GENERATE YOUR OWN SERIAL, ROM,MLB and UUID for iService to be working.</strong>
 <img align="right" src="./img/specsmonterey.png" alt="specsmonterey" width="500">
 <img align="right" src="./img/specsventura.png" alt="specsventura" width="500">
 
