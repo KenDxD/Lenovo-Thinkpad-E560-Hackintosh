@@ -16,7 +16,7 @@ SMBIOS: <br>
 `MacbookPro14,1(Ventura)` <br>
 `MacbookPro15,1(Sonoma)` <br>
 
-<strong>Don't ever update `VoodooPS2Controller.kext` because it contains patch for our Fn Key to be functional even after sleep. Follow this [guides](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/blob/main/Custom%20patch/Guide.md) here.</strong><br>
+<strong>Don't ever update `VoodooPS2Controller.kext` because it contains patch for our Fn Key to be functional even after sleep. Follow this [guides](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/blob/main/Custom%20patch/Guide.md) here for manual apply. <br> Note: This is aready included on [v2023.10.18](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/releases/tag/v2023.10.18) release and onwards.</strong><br>
 
 **What's working currently on this patched version?**<br>
 *- Swap Command and Option is `enabled` by default.*<br>
