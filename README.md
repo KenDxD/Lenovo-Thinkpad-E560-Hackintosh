@@ -10,7 +10,7 @@ Fork from rsdev69. Adding some major improvements check here on [Release Page](h
 
 ## Please Read this!!!!
 
-**I'm not responsible to any data loss, broken hardware or nuclear launch by North Korea. This is for `personal use only` and not for `commercial use`. Don't ever sell this config or hardware with this config, please report it to me because it's a violation to the `Apple EULA` called `Software Piracy`. I know we also broke it but people who use this config to gain money is `ULTRA PRO MAX SCUM`. This config is for the people wants to experience the Apple ecosystem and ready to buy Apple products or `real` Apple hardware.**
+**I'm not responsible to any data loss, broken hardware or nuclear launch by North Korea. This is for `personal use only` and not for `commercial use`. Don't ever sell this config or hardware with this config, please report it to me because it's a violation to the `Apple EULA` called `Software Piracy`. I know we also broke it but people who use this config to gain money is `ULTRA PRO MAX SCUM`. This config is for the people who wants to experience the Apple ecosystem and ready to buy Apple products or `real` Apple hardware.**
 
 ## Instruction
 
