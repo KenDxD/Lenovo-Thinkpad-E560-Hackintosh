@@ -3,14 +3,14 @@
 
 [![rsdev69](https://img.shields.io/badge/rsdev69-fork-green?logo=github)](https://github.com/rsdev69/ThinkPad-E560-Hackintosh)
 [![macOS](https://img.shields.io/badge/Apple-macOS-white)](https://developer.apple.com/documentation/macos-release-notes)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.4-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.5-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 
 Fork from rsdev69. Adding some major improvements check here on [Release Page](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/releases) for more info 🥹.
 
 ## Please Read this!!!!
 
-**I'm not responsible to any data loss, broken hardware or nuclear launch of North Korea. This is for `personal use only` and not for `commercial use`. Don't ever sell this config or hardware with this config, please report it to me because it's a violation to the `Apple EULA` called `Software Piracy`. I know we also broke it but people who use this config to gain money is `ULTRA PRO MAX SCUM`. This config is for the people wants to experience the Apple ecosystem and ready to buy Apple products or `real` Apple hardware.**
+**I'm not responsible to any data loss, broken hardware or nuclear launch by North Korea. This is for `personal use only` and not for `commercial use`. Don't ever sell this config or hardware with this config, please report it to me because it's a violation to the `Apple EULA` called `Software Piracy`. I know we also broke it but people who use this config to gain money is `ULTRA PRO MAX SCUM`. This config is for the people wants to experience the Apple ecosystem and ready to buy Apple products or `real` Apple hardware.**
 
 ## Instruction
 
