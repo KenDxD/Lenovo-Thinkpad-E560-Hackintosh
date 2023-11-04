@@ -62,14 +62,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-VDEV.aml</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-VDEV.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>SSDT-XDSM.aml</string>
 				<key>Enabled</key>
 				<true/>
@@ -83,22 +75,6 @@
 				<true/>
 				<key>Path</key>
 				<string>SSDT-HPET.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-PMCR.aml</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-PMCR.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>SSDT-XHCI.aml</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-XHCI.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
