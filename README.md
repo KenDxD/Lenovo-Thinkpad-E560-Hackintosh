@@ -12,15 +12,34 @@ Fork from rsdev69. Adding some major improvements check here on [Release Page](h
 
 **I'm not responsible to any data loss, broken hardware or nuclear launch by North Korea. This is for `personal use only` and not for `commercial use`. Don't ever sell this config or hardware with this config, please report it to me because it's a violation to the `Apple EULA` called `Software Piracy`. I know we also broke it but people who use this config to gain money are `ULTRA PRO MAX SCUM`. This config is for the people who wants to experience the Apple ecosystem and ready to buy Apple products or `real` Apple hardware.**
 
-## Instruction
+## Before you use the EFI
 
 <strong>GENERATE YOUR OWN SERIAL, ROM,MLB and UUID for iService to be working.</strong><br>
-SMBIOS: <br>
-`MacbookPro13,1(Monterey)` <br>
-`MacbookPro14,1(Ventura)` <br>
-`MacbookPro15,2(Sonoma)` <br>
+Supported SMBIOS:<br>
+<details>
+ <summary>Monterey</summary>
+ 
+ `MacbookPro13,1`
+ 
+</details>
+<details>
+ <summary>Ventura</summary>
+ 
+ `MacbookPro14,1`
+ 
+</details>
+<details>
+ <summary>Sonoma</summary>
+ 
+ `MacbookPro15,2`
+ 
+</details>
+<br>
 
-<strong>Don't ever update `VoodooPS2Controller.kext` because it contains patch for our Fn Key to be functional even after sleep. Follow this [guides](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/blob/main/Custom%20patch/Guide.md) here for manual apply. <br> Note: This is aready included on [v2023.10.18](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/releases/tag/v2023.10.18) release and onwards.</strong><br>
+<strong>Warning for VoodooPS2Controller.kext</strong>
+<br>
+
+Don't ever update `VoodooPS2Controller.kext` because it contains patch for our Fn Key to be functional even after sleep. Follow this [guides](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/blob/main/Custom%20patch/Guide.md) here for manual apply. <br> Note: This is aready included on [v2023.10.18](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/releases/tag/v2023.10.18) release and onwards.<br>
 
 **What's working currently on this patched version?**<br>
 *- Swap Command and Option is `enabled` by default.*<br>
@@ -30,6 +49,48 @@ SMBIOS: <br>
 `Fn + F3` for `Volume Up`<br>
 `Fn + F5` for `Decrease Brightness`<br>
 `Fn + F6` for `Increase Brightness`<br>
+
+
+## Post-Install
+
+<details>
+ <summary>Enabling HiDPI</summary>
+ <br>
+<strong>1. Enable HiDPI Mode</strong><br>
+<br>
+Open your terminal and copy/paste the following command to enable HiDPI mode:
+  
+`sudo defaults write /Library/Preferences/com.apple.windowserver.plist DisplayResolutionEnabled -bool`
+
+<br>
+<strong>2. Detect Display</strong><br>
+<br>
+
+Use IORegistryExplorerMap and locate `AppleBacklightDisplay`<br>
+
+Find your `DisplayProductID` and `DisplayVendorID`<br>
+<br>
+If the value is equal to<br>
+DisplayProductID = `0x46ec`<br>
+DisplayVendorID = `0x6af`<br>
+You can use this already made patch [DisplayProductID-46ec](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/blob/main/Custom%20patch/DisplayProductID-46ec.plist)
+<br>
+If not, go here at [HiDPI Generator by codeclou](https://codeclou.github.io/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/) and make your own `.plist` by following the `Instruction 1 and 2`.
+
+<br>
+<strong>3. Copy to Library Folder (No SIP required)</strong><br>
+<br>
+Copy this command if you download the ready made patch:
+
+`sudo cp ~/Downloads/DisplayProductID-46ec.plist /Library/Displays/Contents/Resources/Overrides/DisplayVendorID-6af/DisplayProductID-46ec`
+
+<strong>Note: Don't use this command if you generate your own `.plist`. Follow the guide on codeclou's site</strong>
+
+<br>
+<strong>4. Restart and check the changes</strong>
+<br>
+
+</details>
 
 ## Running macOS
 
