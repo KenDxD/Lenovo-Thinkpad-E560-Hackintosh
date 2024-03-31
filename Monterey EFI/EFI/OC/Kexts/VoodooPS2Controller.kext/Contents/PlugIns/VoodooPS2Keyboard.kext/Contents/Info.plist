@@ -287,6 +287,8 @@
 					</array>
 					<key>Custom PS2 Map</key>
 					<array>
+						<string>;nullify ps2 code 'e0 05' to prevent keygen at lid close</string>
+						<string>e005=0</string>
 						<string>;The following 12 items map Fn+fkeys to fkeys</string>
 						<string>e020=3b</string>
 						<string>e02e=3c</string>
