@@ -56,6 +56,13 @@ Don't ever update `VoodooPS2Controller.kext` because it contains patch for our F
 <details>
  <summary>Enabling HiDPI</summary>
  <br>
+Before we start, what is HiDPI?<br>
+HiDPI (High Dots Per Inch) displays, also known by Apple's "Retina Display" marketing name, are screens with a high resolution in a relatively small format. They are mostly found in high-end laptops and monitors. In this way, we are forcing the Display to enable the HiDPI on non-Retina or non-Apple Hardware Display.
+<br>
+<br>
+<strong>Instructions:</strong>
+<br>
+<br>
 <strong>1. Enable HiDPI Mode</strong><br>
 <br>
 Open your terminal and copy/paste the following command to enable HiDPI mode:
@@ -88,6 +95,20 @@ Copy this command if you download the ready made patch:
 
 <br>
 <strong>4. Restart and check the changes</strong>
+<br>
+<br clear="top">
+
+<strong>System Settings.app</strong>
+<br>
+
+<img align="center" src="./img/DisplayCheck1.png" alt="specsmonterey" width="500">
+<br>
+<br>
+
+<strong>System Information.app</strong>
+<br>
+
+<img align="center" src="./img/DisplayCheck2.png" alt="specsmonterey" width="500">
 <br>
 
 </details>
