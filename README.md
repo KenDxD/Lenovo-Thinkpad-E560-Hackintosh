@@ -1,9 +1,9 @@
-# Lenovo Thinkpad E560 OpenCore v0.9.5
+# Lenovo Thinkpad E560 OpenCore v0.9.9
 
 
 [![rsdev69](https://img.shields.io/badge/rsdev69-fork-green?logo=github)](https://github.com/rsdev69/ThinkPad-E560-Hackintosh)
 [![macOS](https://img.shields.io/badge/Apple-macOS-white)](https://developer.apple.com/documentation/macos-release-notes)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.5-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.9-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 
 Fork from rsdev69. Adding some major improvements check here on [Release Page](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/releases) for more info 🥹.
