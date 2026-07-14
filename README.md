@@ -6,7 +6,7 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-1.0.3-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 
-Fork from rsdev69. Adding some major improvements check here on [Release Page](https://github.com/KenDxD/Lenovo-Thinkpad-E560-Hackintosh/releases) for more info 🥹.
+Donate: https://paypal.me/crimsonkendxd
 
 ## Please Read this!!!!
 
