@@ -6,7 +6,7 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-1.0.3-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 
-Donate: https://paypal.me/crimsonkendxd
+Donate: https://ko-fi.com/kendxd
 
 ## Please Read this!!!!
 
