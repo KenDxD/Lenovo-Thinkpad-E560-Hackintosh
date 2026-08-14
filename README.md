@@ -7,6 +7,7 @@
 
 
 Donate: https://ko-fi.com/kendxd
+        https://wise.com/pay/me/kelvinjayj1
 
 ## Please Read this!!!!
 
